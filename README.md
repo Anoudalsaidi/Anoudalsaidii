@@ -2,15 +2,9 @@
 ## :mortar_board: Education
 - **Degree**: Bachelor's in Network Security 
 - **University**: University of Technology and Applied Sciences
-- - **GPA**: 3.8
+- **GPA**: 3.8
 - **Graduation Year**: 2019
 ## :computer: About Me
-Here’s a clean version without “fresh” and without mentioning the year:
-
-**About Me**
-Here’s a more attractive, polished, and engaging version:
-
-**About Me**
 I’m a tech-driven problem solver with a passion for software development and network security. I love turning ideas into functional, user-focused solutions and continuously expanding my skills through real projects and hands-on learning. My goal is to build smart, secure, and reliable applications while staying curious and adaptable in a fast-moving tech world.
 
 ## :hammer_and_wrench: Technical Skills
