@@ -20,9 +20,9 @@ I’m a tech-driven problem solver with a passion for software development and n
 - Version Control: Git, GitHub
 - IDEs: Visual Studio, VS Code
 ## :books: What I'm Currently Learning
-.NET Development                > building skills as a .NET developer
-Git & GitHub                    > version control and collaborative development
-Online Courses & Certifications > pursuing courses in software development and network security
+- **.NET Development**:building skills as a .NET developer
+- **Git & GitHub**:version control and collaborative development
+- **Online Courses & Certifications**:pursuing courses in software development and network security
 ## :telescope: Projects
 Graduate Project: Connecting LAN & WAN Technologies with IoT
 Designed and implemented a system integrating Local Area Networks (LAN) and Wide Area Networks (WAN) with Internet of Things (IoT) devices.
