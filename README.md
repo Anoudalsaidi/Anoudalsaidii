@@ -24,11 +24,11 @@ I’m a tech-driven problem solver with a passion for software development and n
 - **Git & GitHub**:version control and collaborative development
 - **Online Courses & Certifications**:pursuing courses in software development and network security
 ## :telescope: Projects
-Graduate Project: Connecting LAN & WAN Technologies with IoT
-Designed and implemented a system integrating Local Area Networks (LAN) and Wide Area Networks (WAN) with Internet of Things (IoT) devices.
-Developed solutions to enable seamless communication between IoT devices across different network types.
-Gained practical experience in network configuration, IoT protocols, and data transmission.
-Enhanced skills in troubleshooting, system integration, and IoT-network security considerations.
+** Connecting LAN & WAN Technologies with IoT**:
+-Designed and implemented a system integrating Local Area Networks (LAN) and Wide Area Networks (WAN) with Internet of Things (IoT) devices.
+-Developed solutions to enable seamless communication between IoT devices across different network types.
+-Gained practical experience in network configuration, IoT protocols, and data transmission.
+-Enhanced skills in troubleshooting, system integration, and IoT-network security considerations.
 ## :mailbox: How to Reach Me
 - Email: anoudalsaidi1993@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anoud-alsaidi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
