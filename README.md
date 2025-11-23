@@ -24,7 +24,7 @@ I’m a tech-driven problem solver with a passion for software development and n
 - **Git & GitHub**:version control and collaborative development
 - **Online Courses & Certifications**:pursuing courses in software development and network security
 ## :telescope: Projects
-** Connecting LAN & WAN Technologies with IoT**:
+- **Connecting LAN & WAN Technologies with IoT**:
 -Designed and implemented a system integrating Local Area Networks (LAN) and Wide Area Networks (WAN) with Internet of Things (IoT) devices.
 -Developed solutions to enable seamless communication between IoT devices across different network types.
 -Gained practical experience in network configuration, IoT protocols, and data transmission.
