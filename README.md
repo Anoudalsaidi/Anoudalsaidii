@@ -33,5 +33,6 @@ I’m a tech-driven problem solver with a passion for software development and n
 - Email: anoudalsaidi1993@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anoud-alsaidi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 ## :seedling: Fun Facts
--I enjoy solving tech puzzles and breaking down complex problems just for fun.
--I love exploring new programming languages even if I don’t immediately need them.
+- **I enjoy solving tech puzzles and breaking down complex problems just for fun.**:
+- **I love exploring new programming languages even if I don’t immediately need them.**:
+
